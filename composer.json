@@ -64,7 +64,7 @@
         "drupal/structure_sync": "^1.11",
         "drupal/synonyms": "^1.0",
         "drupal/taxonomy_import": "^1.0",
-        "drupal/taxonomy_menu": "^3.3",
+        "drupal/taxonomy_menu": "3.3",
         "drupal/token": "^1.1",
         "drupal/token_filter": "^1.0",
         "drupal/views_bulk_edit": "^2.0",
@@ -124,5 +124,5 @@
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/contrib/{$name}": ["type:drupal-drush"]
         }
-    }
+     }
 }
